@@ -2,11 +2,11 @@
 This application allows users to browse a restaurant menu, select items, and view their cart and total price.
 
 1. Import Required Libraries
-[ from tkinter import *
-import tkinter as tk
-from tkinter import ttk
-from tkinter import font
-from tkinter import Label
+[ from tkinter import *,
+import tkinter as tk,
+from tkinter import ttk,
+from tkinter import font,
+from tkinter import Label,
 from PIL import Image, ImageTk ]
 
 2. Initialize the Main Window
